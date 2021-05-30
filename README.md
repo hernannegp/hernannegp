@@ -10,9 +10,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hernanne-domiciano/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="https://www.linkedin.com/in/hernanne-domiciano/" height="40" width="40" /></a>
-<a href="hernannedomiciano@gmail.com" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png" alt="gmail icon" height="54" width="40" style="position:relative; top:23px;"/>
-</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
