@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="300px" src="https://media.giphy.com/media/pe0nDwBo1XFrNgx0nQ/giphy.gif" alt="hernannegp" /></a> </p>
 
-<p align="center"> 👨‍💻 All of my projects are available at (Coming soon) </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hernanne-domiciano/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="https://www.linkedin.com/in/hernanne-domiciano/" height="40" width="40" /></a>
