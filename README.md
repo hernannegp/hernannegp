@@ -4,13 +4,12 @@
     Meu primeiro contato com tecnologia foi em jogos, desde então a ideia de poder criar coisas unicas me tornou um grande entusiasta, anseio por aprender e compartilhar novos conhecimentos!!! 
 </p>
 
-<ul>
-    <li>Apaixonado por jogos RPGS 🎮</li>
-    <li>Adoro uma boa conversa descontraida!!</li>
-    <li>Amo viagens e como elas nos deixam nervosos e relaxados ao mesmo tempo ✈️</li>
-    <li>Leitura de qualidade com temas de Ficção e Fantasia!!! 📖</li>
-    <li>Me encontre em hernannedomiciano@gmail.com 📧</li>
-</ul>
+## Meus intereses:
+- Apaixonado por jogos RPGS 🎮
+- Adoro uma boa conversa descontraida!!
+- Amo viagens e como elas nos deixam nervosos e relaxados ao mesmo tempo ✈️
+- Leitura de qualidade com temas de Ficção e Fantasia!!! 📖
+- Me encontre em hernannedomiciano@gmail.com 📧
 
 <h3 align="center">Conecte-se comigo</h3>
 <p align="center">
