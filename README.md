@@ -1,9 +1,16 @@
-<h1 align="center">Eai galera, sou o Hernanne Domiciano</h1>
-<h3 align="center">Estudante de Desenvolvimento de Software na Trybe | Brazil</h3>
+<h1 align="center">Olá, sou o Hernanne</h1>
 
 <p>
     Meu primeiro contato com tecnologia foi em jogos, desde então a ideia de poder criar coisas unicas me tornou um grande entusiasta, anseio por aprender e compartilhar novos conhecimentos!!! 
 </p>
+
+<ul>
+    <li>Apaixonado por jogos RPGS 🎮</li>
+    <li>Adoro uma boa conversa descontraida!!</li>
+    <li>Amo viagens e como elas nos deixam nervosos e relaxados ao mesmo tempo ✈️</li>
+    <li>Leitura de qualidade com temas de Ficção e Fantasia!!! 📖</li>
+    <li>Me encontre em hernannedomiciano@gmail.com 📧</li>
+</ul>
 
 <h3 align="center">Conecte-se comigo</h3>
 <p align="center">
