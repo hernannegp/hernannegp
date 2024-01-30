@@ -13,7 +13,7 @@
 
 <h3 align="center">Conecte-se comigo</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hernanne-domiciano/" align="center"><b>MEU LINKEDIN</b></a>
+<a href="https://www.linkedin.com/in/hernanne-domiciano/" align="center"><b>LINKEDIN</b></a>
 </p>
 
 ## Frontend
