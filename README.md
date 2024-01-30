@@ -37,26 +37,24 @@
 
 ## Databases
 
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  - MongoDB
+  - MySQL
 
-<h3>Tests</h3>
-<p>
-    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="https://testing-library.com/" target="_blank"> <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40"/> </a> 
-</p>
+## Tests
+
+  - React Testing Library (RTL)
+  - Jest
+  - Apex Testing
 
 
-<h3>Cloud Plataforms</h3>
-<p>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-</p>
+## Cloud Plataforms
 
-<h3>Others</h3>
-<p>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<p>
+  - Heroku
+
+## Others
+
+  - Linux
+  - Git
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hernannegp&show_icons=true&theme=onedark&locale=en" alt="hernannegp" /></p>
