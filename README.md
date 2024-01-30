@@ -17,8 +17,12 @@
 </p>
 
 ## Frontend
-  teste
+  Possuo experiências de trabalho com diversas tecnologias de front, mas me familiarizo melhor com as citadas aqui:
 
+  - JavaScript (React, Node)
+  - Power BI (Desktop)
+
+  Vale uma menção ao Power Bi pois a parte front-end é a criação de interfaces, incluindo filtro de paginas!
 <p>
 
 ## Back end
