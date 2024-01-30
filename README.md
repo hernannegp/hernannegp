@@ -19,15 +19,20 @@
 ## Frontend
   Possuo experiências de trabalho com diversas tecnologias de front, mas me familiarizo melhor com as citadas aqui:
 
-  - JavaScript (React, Node)
+  - JavaScript (React)
   - Power BI (Desktop)
 
   Vale uma menção ao Power Bi pois a parte front-end é a criação de interfaces, incluindo filtro de paginas!
 <p>
 
 ## Back end
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  Aqui é onde eu atualmente estou focado, buscando me desenvolver na parte back-end, possuo algumas tecnologias tambem familiares como:
+
+  - JavaScript(Node)
+  - Python(Pandas e Numpy)
+  - Apex(Salesforce)
+
+  Apex é a linguagem que mais ando estudando ultimamente.
 
 
 ## Databases
